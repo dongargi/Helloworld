@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8481-6280
+
+ Directory of C:\Users\lenovo\OneDrive\Desktop\java
+
+20-06-2023  19:27    <DIR>          .
+20-06-2023  19:27    <DIR>          ..
+20-06-2023  19:24               900 Hello.class
+20-06-2023  18:54               173 Hello.java
+20-06-2023  19:27                 0 s.txt
+               3 File(s)          1,073 bytes
+               2 Dir(s)  29,381,832,704 bytes free
